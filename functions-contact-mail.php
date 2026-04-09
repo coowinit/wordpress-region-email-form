@@ -36,7 +36,7 @@ function send_contact_us_email_callback() {
     }
 
     $to_region     = $region_emails[$state];
-    $company_email = 'info@evodekco.com';
+    $company_email = 'info@coowinit.com';
 
     // Get visitor IP
     $client_ip = '';
